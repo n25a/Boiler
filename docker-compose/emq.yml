@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  emq:
+    image: emqx/emqx:v4.0.0
+    ports:
+      - "1883:1883"
+      - "8083:8083"
+      - "18083:18083"
