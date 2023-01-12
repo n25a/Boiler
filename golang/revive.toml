@@ -88,9 +88,6 @@ warningCode = 0
 # By convention, for the sake of readability, variables of type error must be named with the prefix err.
 [rule.error-naming]
 
-# This rule spots and proposes to remove unreachable code.
-[rule.unreachable-code]
-
 # This rule suggests to remove redundant statements like a break at the end of a case block, for improving
 # the code's readability.
 [rule.unnecessary-stmt]
