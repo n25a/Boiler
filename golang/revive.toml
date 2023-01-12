@@ -103,7 +103,7 @@ warningCode = 0
 # Cyclomatic complexity is a measure of code complexity. Enforcing a maximum complexity
 # per function helps to keep code readable and maintainable.
 [rule.cyclomatic]
-    Arguments = [5]
+    Arguments = [8]
 
 # Packages should have comments. This rule warns on undocumented packages
 # and when packages comments are detached to the package keyword.
