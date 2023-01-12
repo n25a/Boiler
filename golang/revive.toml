@@ -111,3 +111,4 @@ warningCode = 0
 # Packages should have comments. This rule warns on undocumented packages
 # and when packages comments are detached to the package keyword.
 [rule.package-comments]
+
