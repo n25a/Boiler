@@ -38,3 +38,4 @@ with open(commit_msg_filepath, 'r+') as f:
         prefix_emoji = emoji_list[index]
         new_commit_msg = '%s %s' % (prefix_emoji, commit_msg)
         f.write(new_commit_msg)
+
