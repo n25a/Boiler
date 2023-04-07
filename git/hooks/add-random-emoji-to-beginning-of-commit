@@ -8,7 +8,7 @@ prepare-commit-msg. Make sure it is executable.
 
 This script need emoji package, you can install it by "pip install emoji".
 
-This script created by Nima Mashhadi, you can find it on github:
+This script created by Nima Mashhadi, you can find him on github:
 https://github.com/n25a
 """
 
